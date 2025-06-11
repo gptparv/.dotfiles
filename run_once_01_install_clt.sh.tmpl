@@ -4,8 +4,8 @@ set -e
 if ! xcode-select -p &>/dev/null; then
   echo "Installing Xcode Command Line Tools..."
   xcode-select --install
-
   until xcode-select -p &>/dev/null; do
+    echo "Waiting for Xcode Command Line Tools installation..."
     sleep 5
   done
 else

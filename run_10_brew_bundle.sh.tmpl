@@ -1,0 +1,15 @@
+#!/bin/bash
+set -e
+
+BREW="/opt/homebrew/bin/brew"
+
+if [ ! -x "$BREW" ]; then
+  echo "Homebrew not found at $BREW"
+  exit 1
+fi
+
+echo "Setting up Homebrew environment..."
+eval "$($BREW shellenv)"
+
+echo "Installing packages from Brewfile..."
+$BREW bundle --file="${HOME}/.local/share/chezmoi/Brewfile"

@@ -1,0 +1,23 @@
+#!/bin/bash
+set -e
+
+FISH_PATH="/opt/homebrew/bin/fish"
+
+if [ ! -x "$FISH_PATH" ]; then
+  echo "Fish shell not found at $FISH_PATH"
+  exit 1
+fi
+
+# Ensure fish is in /etc/shells
+if ! grep -Fxq "$FISH_PATH" /etc/shells; then
+  echo "Adding $FISH_PATH to /etc/shells"
+  echo "$FISH_PATH" | sudo tee -a /etc/shells
+fi
+
+# Change shell if needed
+if [ "$SHELL" != "$FISH_PATH" ]; then
+  echo "Changing default shell to $FISH_PATH"
+  chsh -s "$FISH_PATH"
+else
+  echo "Fish is already the default shell"
+fi
