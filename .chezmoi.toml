@@ -1,0 +1,5 @@
+[template]
+shell = "bash"
+
+[apply]
+verbose = true

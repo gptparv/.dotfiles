@@ -1,0 +1,12 @@
+# ~/.config/fish/config.fish
+set -gx EDITOR nvim
+set -gx HOMEBREW_NO_ANALYTICS 1
+
+# Path modifications (optional)
+set -gx PATH $HOME/bin $PATH
+# Add Homebrew to PATH
+eval (/opt/homebrew/bin/brew shellenv | psub)
+
+# Aliases
+alias ll="ls -la"
+alias gs="git status"
