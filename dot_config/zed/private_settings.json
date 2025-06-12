@@ -13,11 +13,24 @@
     "terraform": true,
     "toml": true
   },
-  "ui_font_size": 16,
+  "autosave": "on_focus_change",
+  "buffer_font_family": "JuliaMono",
   "buffer_font_size": 16,
+  "confirm_quit": true,
+  "cursor_shape": "underline",
+  "file_icons": true,
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "terminal": {
+    "font_family": "JuliaMono"
+  },
   "theme": {
-    "mode": "system",
+    "dark": "Catppuccin Macchiato (Blur)",
     "light": "Catppuccin Macchiato (Blur)",
-    "dark": "Catppuccin Macchiato (Blur)"
-  }
+    "mode": "system"
+  },
+  "ui_font_family": "JuliaMono",
+  "ui_font_size": 16
 }
