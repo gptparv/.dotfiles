@@ -1,0 +1,23 @@
+{
+  "auto_install_extensions": {
+    "basher": true,
+    "catppuccin-blur": true,
+    "catppuccin-icons": true,
+    "docker-compose": true,
+    "dockerfile": true,
+    "env": true,
+    "fish": true,
+    "ini": true,
+    "pylsp": true,
+    "ruff": true,
+    "terraform": true,
+    "toml": true
+  },
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+  "theme": {
+    "mode": "system",
+    "light": "Catppuccin Macchiato (Blur)",
+    "dark": "Catppuccin Macchiato (Blur)"
+  }
+}
