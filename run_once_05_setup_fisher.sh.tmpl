@@ -18,5 +18,6 @@ else
   echo "Fisher already installed at $FISHER_PATH"
 fi
 
-# Install desired fish plugins (idempotent)
+# fish_plugins hash: {{ include "fish_plugins" | sha256sum }}
+# Install desired fish plugins
 "$FISH_BIN" -c 'fisher update'
