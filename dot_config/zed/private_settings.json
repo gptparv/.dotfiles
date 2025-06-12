@@ -1,7 +1,7 @@
 {
   "auto_install_extensions": {
     "basher": true,
-    "catppuccin-blur": true,
+    "catppuccin": true,
     "catppuccin-icons": true,
     "docker-compose": true,
     "dockerfile": true,
