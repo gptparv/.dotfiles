@@ -25,6 +25,7 @@
   },
   "terminal": {
     "blinking": "on",
+    "cursor_shape": "underline",
     "font_family": "JetBrainsMono Nerd Font"
   },
   "theme": {
