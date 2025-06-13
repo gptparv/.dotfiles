@@ -23,7 +23,7 @@ brew "yor"
 brew "zola"
 
 cask "displaylink"
-cask "jetbrains-mono-nerd-font"
+cask "font-jetbrains-mono-nerd-font"
 cask "flux"
 cask "keyboardcleantool"
 cask "logseq"
