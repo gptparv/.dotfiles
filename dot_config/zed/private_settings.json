@@ -14,7 +14,7 @@
     "toml": true
   },
   "autosave": "on_focus_change",
-  "buffer_font_family": "JuliaMono",
+  "buffer_font_family": "JetBrainsMono Nerd Font",
   "buffer_font_size": 16,
   "confirm_quit": true,
   "cursor_shape": "underline",
@@ -24,13 +24,14 @@
     "metrics": false
   },
   "terminal": {
-    "font_family": "JuliaMono"
+    "blinking": "on",
+    "font_family": "JetBrainsMono Nerd Font"
   },
   "theme": {
     "dark": "Catppuccin Macchiato (Blur)",
     "light": "Catppuccin Macchiato (Blur)",
     "mode": "system"
   },
-  "ui_font_family": "JuliaMono",
+  "ui_font_family": "JetBrainsMono Nerd Font",
   "ui_font_size": 16
 }
