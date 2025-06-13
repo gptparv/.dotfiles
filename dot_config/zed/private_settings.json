@@ -18,6 +18,9 @@
   "buffer_font_size": 16,
   "confirm_quit": true,
   "cursor_shape": "underline",
+  "features": {
+    "edit_prediction_provider": "supermaven"
+  },
   "file_icons": true,
   "telemetry": {
     "diagnostics": false,
