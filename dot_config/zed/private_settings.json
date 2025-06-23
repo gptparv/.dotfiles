@@ -1,7 +1,7 @@
 {
   "auto_install_extensions": {
     "basher": true,
-    "catppuccin": true,
+    "catppuccin-blur": true,
     "catppuccin-icons": true,
     "docker-compose": true,
     "dockerfile": true,
@@ -32,8 +32,8 @@
     "font_family": "JetBrainsMono Nerd Font"
   },
   "theme": {
-    "dark": "Catppuccin Macchiato (Blur)",
-    "light": "Catppuccin Macchiato (Blur)",
+    "dark": "Catppuccin Espresso (Blur)",
+    "light": "Catppuccin Espresso (Blur)",
     "mode": "system"
   },
   "ui_font_family": "JetBrainsMono Nerd Font",
