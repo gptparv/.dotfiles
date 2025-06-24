@@ -28,3 +28,5 @@ cask "ghostty"
 cask "keyboardcleantool"
 cask "tunnelblick"
 cask "zed"
+cask "zen"
+

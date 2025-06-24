@@ -36,3 +36,11 @@ To pull the latest changes from the repository:
 ```bash
 chezmoi update
 ```
+
+## Zen Browser
+
+- Extensions:
+  - AdGuard AdBlocker
+  - Bitwarden Password Manager
+  - OneTab
+  - Privacy Badger
