@@ -22,7 +22,6 @@ brew "uv"
 brew "yor"
 brew "zola"
 
-cask "displaylink"
 cask "font-jetbrains-mono-nerd-font"
 cask "flux"
 cask "ghostty"
