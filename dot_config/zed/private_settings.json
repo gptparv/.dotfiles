@@ -30,6 +30,7 @@
     "edit_prediction_provider": "supermaven"
   },
   "file_icons": true,
+  "format_on_save": "on",
   "telemetry": {
     "diagnostics": false,
     "metrics": false
