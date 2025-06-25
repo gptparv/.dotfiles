@@ -1,4 +1,12 @@
 {
+  "agent": {
+    "model_parameters": [],
+    "default_model": {
+      "provider": "ollama",
+      "model": "devstral:latest"
+    },
+    "version": "2"
+  },
   "auto_install_extensions": {
     "basher": true,
     "catppuccin-blur": true,
