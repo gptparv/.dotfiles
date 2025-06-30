@@ -2,3 +2,4 @@
 terraform = "1.10.2"
 kubectx = "0.9.5"
 kubectl = "1.31.2"
+dotnet = "9.0.301"
