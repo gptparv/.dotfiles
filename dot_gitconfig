@@ -12,7 +12,7 @@
   autoSetupRemote = true
 
 [ghq]
-root = ~/repos
+root = ~/depot
 
 [color]
   ui = auto
