@@ -1,1 +1,2 @@
-{:logseq-journals-calendar {:version "v0.11.0", :repo "xyhp915/logseq-journals-calendar", :effect false, :theme false}}
+{:logseq-flow-nord-theme {:version "v0.10.41", :repo "henices/logseq-flow-nord", :effect false, :theme true}
+ :logseq-journals-calendar {:version "v0.11.0", :repo "xyhp915/logseq-journals-calendar", :effect false, :theme false}}

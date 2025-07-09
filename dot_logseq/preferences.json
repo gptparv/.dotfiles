@@ -1,17 +1,23 @@
 {
-  "theme": null,
+  "theme": {
+    "name": "Flow Nord Theme - Nord",
+    "url": "file:///Users/parv.gupta/.logseq/plugins/logseq-flow-nord-theme/nord.css",
+    "description": "Flow Nord Theme - Nord",
+    "pid": "logseq-flow-nord-theme"
+  },
   "themes": {
-    "mode": "light",
-    "light": {
-      "name": "Default Light Theme",
-      "url": null,
-      "description": "Logseq default light theme.",
-      "mode": "light",
-      "selected": true,
+    "mode": "dark",
+    "light": null,
+    "dark": {
+      "name": "Flow Nord Theme - Nord",
+      "url": "file:///Users/parv.gupta/.logseq/plugins/logseq-flow-nord-theme/nord.css",
+      "description": "Flow Nord Theme - Nord",
+      "pid": "logseq-flow-nord-theme",
       "group-first": true,
-      "group-desc": "light themes"
-    },
-    "dark": null
+      "group-desc": "light & dark themes",
+      "mode": "dark",
+      "selected": false
+    }
   },
   "externals": []
 }
