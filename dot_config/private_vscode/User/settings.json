@@ -1,4 +1,16 @@
 {
+    // EDITOR
     "editor.fontFamily": "JetBrainsMonoNL Nerd Font Mono",
-    "editor.fontSize": 15
+    "editor.fontSize": 15,
+    "editor.autoClosingBrackets": "always",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.bracketPairColorization.enabled": true,
+
+    // TERMINAL
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font Mono",
+    "terminal.integrated.fontSize": 15,
+
+    // WORKBENCH
+    "workbench.colorTheme": "Palenight Operator",
+    
 }
