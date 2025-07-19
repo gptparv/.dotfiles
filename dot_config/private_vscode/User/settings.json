@@ -6,11 +6,14 @@
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
     "editor.bracketPairColorization.enabled": true,
 
+    // GIT
+    "git.autofetch": true,
+
     // TERMINAL
     "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font Mono",
     "terminal.integrated.fontSize": 15,
 
     // WORKBENCH
     "workbench.colorTheme": "Palenight Operator",
-    
+    "workbench.sideBar.location": "right",
 }
