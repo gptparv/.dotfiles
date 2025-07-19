@@ -12,7 +12,7 @@
   autoSetupRemote = true
 
 [ghq]
-root = ~/factory
+root = ~/ghq
 
 [color]
   ui = auto
