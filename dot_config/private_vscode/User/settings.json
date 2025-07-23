@@ -1,19 +1,36 @@
 {
+    // CHAT
+    "chat.agent.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "chat.detectParticipant.enabled": false,
+    "chat.edits2.enabled": false,
+    "chat.mcp.enabled": false,
+    "chat.mcp.discovery.enabled": false,
+    "chat.sendElementsToChat.enabled": false,
+    
     // EDITOR
     "editor.fontFamily": "JetBrainsMonoNL Nerd Font Mono",
-    "editor.fontSize": 15,
+    "editor.fontSize": 13,
     "editor.autoClosingBrackets": "always",
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
     "editor.bracketPairColorization.enabled": true,
+    "editor.minimap.enabled": false,
 
     // GIT
     "git.autofetch": true,
 
+    // PYTHON
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.typeCheckingMode": "basic",
+
     // TERMINAL
     "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font Mono",
-    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.fontSize": 13,
 
     // WORKBENCH
     "workbench.colorTheme": "Palenight Operator",
     "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "none",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
 }

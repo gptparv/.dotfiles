@@ -59,6 +59,7 @@ cask "slack"
 cask "ticktick"
 cask "tunnelblick"
 cask "visual-studio-code"
+cask "vlc"
 cask "zen"
 cask "zotero"
 
