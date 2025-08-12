@@ -1,12 +1,12 @@
 {
     // CHAT
-    "chat.agent.enabled": false,
-    "chat.commandCenter.enabled": false,
-    "chat.detectParticipant.enabled": false,
-    "chat.edits2.enabled": false,
-    "chat.mcp.enabled": false,
-    "chat.mcp.discovery.enabled": false,
-    "chat.sendElementsToChat.enabled": false,
+    "chat.agent.enabled": true,
+    "chat.commandCenter.enabled": true,
+    "chat.detectParticipant.enabled": true,
+    "chat.edits2.enabled": true,
+    "chat.mcp.enabled": true,
+    "chat.mcp.discovery.enabled": true,
+    "chat.sendElementsToChat.enabled": true,
     
     // EDITOR
     "editor.fontFamily": "JetBrainsMonoNL Nerd Font Mono",
