@@ -11,9 +11,6 @@
 [push]
   autoSetupRemote = true
 
-[ghq]
-root = ~/vcs
-
 [color]
   ui = auto
 

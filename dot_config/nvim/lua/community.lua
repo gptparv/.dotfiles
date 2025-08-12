@@ -9,5 +9,7 @@ return {
 	{ import = "astrocommunity.colorscheme.palenight-nvim" },
 	{ import = "astrocommunity.pack.python" },
 	{ import = "astrocommunity.programming-language-support.rest-nvim" },
+	{ import = "astrocommunity.pack.docker" },
+	{ import = "astrocommunity.markdown-and-latex.render-markdown-nvim" },
 	-- import/override with your plugins folder
 }

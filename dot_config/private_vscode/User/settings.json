@@ -33,4 +33,7 @@
     "workbench.sideBar.location": "right",
     "workbench.startupEditor": "none",
     "workbench.secondarySideBar.defaultVisibility": "hidden",
+
+    // EXTENSIONS
+    "extensions.ignoreRecommendations": true,
 }
